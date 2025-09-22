@@ -16,6 +16,21 @@ toc: false
 
 Starting August 1, 2025, we have officially rebranded from **CAPE (Confidential Analysis Privacy Enhancement)** to **DP (Data Protection Team)**. This transition reflects our expanded service scope—evolving from our initial focus on confidential data analysis and privacy enhancement technologies to providing comprehensive data protection solutions. Our new name more directly communicates our core mission: delivering complete data protection strategies and practices for organizations.
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; padding: 20px; background: #f5f5f5; border-radius: 10px;">
+  <img src="/images/dp_logo_2.png" alt="DP Logo" style="width: 100px; height: auto;">
+  <img src="/images/dp_logo_2_black.png" alt="DP Logo Black" style="width: 100px; height: auto;">
+  <img src="/images/dp_logo_2_white.png" alt="DP Logo White" style="width: 100px; height: auto; background: #333; padding: 10px; border-radius: 5px;">
+</div>
+
+<p style="text-align: center; font-style: italic; margin: 20px 0;">
+  <span style="display: block; margin-bottom: 10px;">
+    <strong>Logo 設計理念：</strong>我們沿用 CAPE 時代為隱私加上斗篷的設計概念，象徵持續為資料保護提供屏障。
+  </span>
+  <span style="display: block;">
+    <strong>Logo Design Concept:</strong> We retain the design concept from our CAPE era—a cloak of privacy—symbolizing our continued commitment to providing a protective barrier for data.
+  </span>
+</p>
+
 ## 我們的服務 / Our Services
 
 DP 資料保護組專注於四大核心領域：隱私導向工程架構、資料治理與法遵框架、隱私強化技術研發，以及資料驅動決策與 AI 導入服務。我們將隱私納入設計原則融入資料工程架構，建立符合個資法規的治理體系，透過差分隱私、聯邦學習等先進技術提供實務解決方案，並提供資料分析、策略規劃與大型語言模型（LLM）等 AI 技術導入的全方位顧問諮詢服務，協助組織在確保隱私保護的前提下充分發揮資料價值。與台灣頂尖大學的密切合作，確保我們的方法論始終處於資料保護領域的最前沿。
