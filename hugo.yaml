@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: CAPE
+title: DP
 
 # import hextra as module
 module:
@@ -55,9 +55,9 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/cape_logo_2_black.svg
-      dark: images/cape_logo_2_white.svg
-      link: /cape
+      path: images/dp_logo_2_black.svg
+      dark: images/dp_logo_2_white.svg
+      link: /dp
       width: 40
       height: 20
 

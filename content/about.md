@@ -3,7 +3,9 @@ title: About
 type: about
 ---
 
-<p align="center"><img src="/cape/images/usie.jpg"></p>
+<p align="center"><img src="/cape/images/20250919_dp_creation.jpeg"></p>
+
+<p align="center"><em>慶祝資料保護組成立，2025年9月19日攝於臺南阿菊食堂 / Celebrating the establishment of the Data Protection Team, photographed at A-Ju Restaurant in Tainan on Sep‘ 19, 2025</em></p>
 
 ## 我們是誰 / Who We Are
 
@@ -96,11 +98,6 @@ Our multidisciplinary team includes:
   * 電腦視覺與機器學習研究員 / Computer Vision & ML Researcher
   * 函數式程式設計愛好者 (Lisp) / Functional Programming Enthusiast (Lisp)
 
-* **Justyn Chen** <!-- Oct. 2023 ~ now -->
-  * 康復中的資料科學家：資料與模型治理 / Recovering Data Scientist: Data and Model Governance
-  * 隱私強化技術專家與開源貢獻者 / Expert and Open Source Contributor in Privacy-Enhancing Technologies
-  * 數位轉型與創新倡導者 / Evangelist of Digital Transformation and Innovation
-
 * **Andy Hsu** <!-- Sep. 2024 ~ now -->
   * 機器學習與隱私強化技術研究員 / ML & Privacy-Enhancing Techniques Researcher
   * 產學合作協調員 / Academic-Industry Partnership Coordinator
@@ -117,16 +114,29 @@ Our multidisciplinary team includes:
   * 軟體工程與關聯式資料庫專家 / Software Engineering & Relational Database Expert
   * Swift 愛好者 / Swift Enthusiast
 
+* **Justyn Chen** <!-- Oct. 2023 ~ now -->
+  * 康復中的資料科學家：資料與模型治理 / Recovering Data Scientist: Data and Model Governance
+  * 隱私強化技術專家與開源貢獻者 / Expert and Open Source Contributor in Privacy-Enhancing Technologies
+  * 數位轉型與創新倡導者 / Evangelist of Digital Transformation and Innovation
+
+* **Zoe Lee** <!-- Sep. 2025 ~ now -->
+  * 專案經理 / Program Manager
+  * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
+
 ### 前團隊成員 / Alumni
+
+* **Jojo Chien** (Apr. ~ Sep. 2025)
+  * 專案經理 / Program Manager
+  * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
+
+* **Joanne Chang** (Dec. 2023 ~ Apr. 2025)
+  * 專案經理 / Program Manager
+  * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
 
 * **Alex Chen** (Dec. 2023 ~ Feb. 2025)
   * 資料科學家 / Data Scientist
   * 貝氏統計學家 / Bayesian Statistician
   * 隱私強化技術專家 / Expert in Privacy-Enhancing Technologies
-
-* **Joanne Chang** (Dec. 2023 ~ Apr. 2025)
-  * 專案經理 / Program Manager
-  * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
 
 ## 聯絡我們 / Contact Us
 
