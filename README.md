@@ -84,9 +84,9 @@ Optimize images via [Clop](https://github.com/FuzzyIdeas/Clop) and store them in
 
 #### 圖片路徑 / Image Paths
 
-由於我們的網站網址不是基礎網址（例如 `https://nics-tw.github.io/`），而是相對網址（例如 `https://nics-tw.github.io/cape/`），因此在插入圖片時需要加上 `/cape/`：
+由於我們的網站網址不是基礎網址（例如 `https://nics-dp.github.io/`），而是相對網址（例如 `https://nics-dp.github.io/cape/`），因此在插入圖片時需要加上 `/cape/`：
 
-Since our website URL is not base URL (e.g. `https://nics-tw.github.io/`), but relative URL (e.g. `https://nics-tw.github.io/cape/`), we need to add `/cape/` when inserting images:
+Since our website URL is not base URL (e.g. `https://nics-dp.github.io/`), but relative URL (e.g. `https://nics-dp.github.io/cape/`), we need to add `/cape/` when inserting images:
 
 - Markdown 格式 / Markdown style: `![some pic](/cape/images/aaa.bbb)`
 - HTML 格式 / HTML style: `<p align="center"><img src="/cape/images/aaa.bbb"></p>`
