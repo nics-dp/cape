@@ -123,6 +123,10 @@ Our multidisciplinary team includes:
   * 專案經理 / Program Manager
   * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
 
+* **Holmes Lin** <!-- Nov. 2025 ~ now --> 
+  * 資深後端工程師 / Senior Backend Engineer  
+  * 基礎設施工程師 / Infrastructure Engineer
+
 ### 前團隊成員 / Alumni
 
 * **Jojo Chien** (Apr. ~ Sep. 2025)
